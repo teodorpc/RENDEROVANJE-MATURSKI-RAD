@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.26)  26 APR 2021 22:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.26)  27 APR 2021 23:36
 entering extended mode
 **"./RENDEROVANJE-MATURSKI RAD.tex"
 ("RENDEROVANJE-MATURSKI RAD.tex"
@@ -1132,32 +1132,155 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 r\tikz\libraries\tikzlibrarypositioning.code.tex"
 File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 ))
-("RENDEROVANJE-MATURSKI RAD.aux")
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption
+.sty"
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.st
+y"
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.s
+ty"
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen194
+\captionmargin@=\dimen195
+\captionwidth=\dimen196
+\caption@tempdima=\dimen197
+\caption@indent=\dimen198
+\caption@parindent=\dimen199
+\caption@hangindent=\dimen256
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count140
+\c@continuedfloat=\count141
+)
+\c@subfigure=\count142
+\c@subtable=\count143
+)
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count144
+\float@exts=\toks44
+\float@box=\box42
+\@float@everytoks=\toks45
+\@floatcapt=\box43
+)
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjustbo
+x.sty"
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.
+sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\trimclip
+.sty"
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\collectbox\collect
+box.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box44
+)
+\tc@llx=\dimen257
+\tc@lly=\dimen258
+\tc@urx=\dimen259
+\tc@ury=\dimen260
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\tc-pdfte
+x.def"
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen261
+\adjbox@Height=\dimen262
+\adjbox@Depth=\dimen263
+\adjbox@Totalheight=\dimen264
+\adjbox@pwidth=\dimen265
+\adjbox@pheight=\dimen266
+\adjbox@pdepth=\dimen267
+\adjbox@ptotalheight=\dimen268
+
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpag
+e.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count145
+)
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\varwidth\varwidth.
+sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box45
+\sift@deathcycles=\count146
+\@vwid@loff=\dimen269
+\@vwid@roff=\dimen270
+))
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+sty"
+\lst@mode=\count147
+\lst@gtempboxa=\box46
+\lst@token=\toks46
+\lst@length=\count148
+\lst@currlwidth=\dimen271
+\lst@column=\count149
+\lst@pos=\count150
+\lst@lostspace=\dimen272
+\lst@width=\dimen273
+\lst@newlines=\count151
+\lst@lineno=\count152
+\lst@maxwidth=\dimen274
+
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count153
+\lst@skipnumbers=\count154
+\lst@framebox=\box47
+)
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+cfg"
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+) ("RENDEROVANJE-MATURSKI RAD.aux")
 \openout1 = `"RENDEROVANJE-MATURSKI RAD.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 41.
 
 ("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    ... okay on input line 41.
 LaTeX Font Info:    Try loading font information for T2A+LinuxLibertineT-TLF on
- input line 11.
+ input line 41.
 
 ("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\libertinegc\t2alin
 uxlibertinet-tlf.fd"
@@ -1165,10 +1288,10 @@ File: T2ALinuxLibertineT-TLF.fd 2016/02/13 (msharpe) scaled font definitions fo
 r Libertine T2A
 )
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 11.
-\c@mv@tabular=\count140
-\c@mv@boldtabular=\count141
-LaTeX Info: Redefining \microtypecontext on input line 11.
+(Font)              scaled to size 12.0pt on input line 41.
+\c@mv@tabular=\count155
+\c@mv@boldtabular=\count156
+LaTeX Info: Redefining \microtypecontext on input line 41.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1186,17 +1309,17 @@ Package microtype Info: Loading generic protrusion settings for font family
 ("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
 ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count142
-\scratchdimen=\dimen194
-\scratchbox=\box42
-\nofMPsegments=\count143
-\nofMParguments=\count144
-\everyMPshowfont=\toks44
-\MPscratchCnt=\count145
-\MPscratchDim=\dimen195
-\MPnumerator=\count146
-\makeMPintoPDFobject=\count147
-\everyMPtoPDFconversion=\toks45
+\scratchcounter=\count157
+\scratchdimen=\dimen275
+\scratchbox=\box48
+\nofMPsegments=\count158
+\nofMParguments=\count159
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count160
+\MPscratchDim=\dimen276
+\MPnumerator=\count161
+\makeMPintoPDFobject=\count162
+\everyMPtoPDFconversion=\toks48
 )
 ("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
 base.sty"
@@ -1259,20 +1382,25 @@ G,.JBIG2,.JB2,.eps]
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
 your preamble.
- on input line 11.
+ on input line 41.
 
-\Hy@linkcounter=\count148
+\Hy@linkcounter=\count163
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count164
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 13.
+(Font)              scaled to size 20.74pt on input line 43.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 13.
+(Font)              scaled to size 14.4pt on input line 43.
 
 ("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\mt-cmr.c
 fg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 13.
+LaTeX Font Info:    Try loading font information for U+msa on input line 43.
 
 ("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1281,7 +1409,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 fg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 13.
+LaTeX Font Info:    Try loading font information for U+msb on input line 43.
 
 ("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1291,39 +1419,101 @@ fg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 15.
+(Font)              scaled to size 17.28pt on input line 45.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 15.
+(Font)              scaled to size 17.28pt on input line 45.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 20.
+(Font)              scaled to size 14.4pt on input line 50.
+LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 52.
  [1
 
 {C:/Users/teodo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-("RENDEROVANJE-MATURSKI RAD.toc"
-LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 2.
-)
+[2]
+<prviRenderiRomni1.jpg, id=13, 501.875pt x 499.8675pt>
+File: prviRenderiRomni1.jpg Graphic file (type jpg)
+<use prviRenderiRomni1.jpg>
+Package pdftex.def Info: prviRenderiRomni1.jpg  used on input line 68.
+(pdftex.def)             Requested size: 187.89914pt x 187.15237pt.
+LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 69.
+<prviRenderiRomni2.jpg, id=14, 501.875pt x 502.87875pt>
+File: prviRenderiRomni2.jpg Graphic file (type jpg)
+<use prviRenderiRomni2.jpg>
+Package pdftex.def Info: prviRenderiRomni2.jpg  used on input line 72.
+(pdftex.def)             Requested size: 187.89914pt x 188.2798pt.
+<prviRenderiBlin.jpg, id=15, 501.875pt x 322.20375pt>
+File: prviRenderiBlin.jpg Graphic file (type jpg)
+<use prviRenderiBlin.jpg>
+Package pdftex.def Info: prviRenderiBlin.jpg  used on input line 81.
+(pdftex.def)             Requested size: 501.87376pt x 322.20296pt.
+ [3 <./prviRenderiRomni1.jpg> <./prviRenderiRomni2.jpg>] [4 <./prviRenderiBlin.
+jpg>]
+<Catmull-Clark_Recursive_Step_1.png, id=22, 220.825pt x 124.465pt>
+File: Catmull-Clark_Recursive_Step_1.png Graphic file (type png)
+<use Catmull-Clark_Recursive_Step_1.png>
+Package pdftex.def Info: Catmull-Clark_Recursive_Step_1.png  used on input line
+ 135.
+(pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
+<Catmull-Clark_Recursive_Step_2.png, id=23, 220.825pt x 124.465pt>
+File: Catmull-Clark_Recursive_Step_2.png Graphic file (type png)
+<use Catmull-Clark_Recursive_Step_2.png>
+Package pdftex.def Info: Catmull-Clark_Recursive_Step_2.png  used on input line
+ 139.
+(pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
+<Catmull-Clark_Recursive_Step_3.png, id=25, 220.825pt x 124.465pt>
+File: Catmull-Clark_Recursive_Step_3.png Graphic file (type png)
+<use Catmull-Clark_Recursive_Step_3.png>
+Package pdftex.def Info: Catmull-Clark_Recursive_Step_3.png  used on input line
+ 143.
+(pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
+<Catmull-Clark_Recursive_Step_4.png, id=26, 220.825pt x 124.465pt>
+File: Catmull-Clark_Recursive_Step_4.png Graphic file (type png)
+<use Catmull-Clark_Recursive_Step_4.png>
+Package pdftex.def Info: Catmull-Clark_Recursive_Step_4.png  used on input line
+ 147.
+(pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
+<Catmull-Clark_Recursive_Step_5.png, id=27, 220.825pt x 124.465pt>
+File: Catmull-Clark_Recursive_Step_5.png Graphic file (type png)
+<use Catmull-Clark_Recursive_Step_5.png>
+Package pdftex.def Info: Catmull-Clark_Recursive_Step_5.png  used on input line
+ 151.
+(pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
+<Catmull-Clark_Recursive_Step_6.png, id=28, 220.825pt x 124.465pt>
+File: Catmull-Clark_Recursive_Step_6.png Graphic file (type png)
+<use Catmull-Clark_Recursive_Step_6.png>
+Package pdftex.def Info: Catmull-Clark_Recursive_Step_6.png  used on input line
+ 155.
+(pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
+ [5] ("RENDEROVANJE-MATURSKI RAD.toc")
 \tf@toc=\write4
 \openout4 = `"RENDEROVANJE-MATURSKI RAD.toc"'.
 
- [2] ("RENDEROVANJE-MATURSKI RAD.aux") ) 
+ [6 <./Catmull-Clark_Recursive_Step_1.png> <./Catmull-Clark_Recursive_Step_2.pn
+g> <./Catmull-Clark_Recursive_Step_3.png> <./Catmull-Clark_Recursive_Step_4.png
+> <./Catmull-Clark_Recursive_Step_5.png> <./Catmull-Clark_Recursive_Step_6.png>
+] ("RENDEROVANJE-MATURSKI RAD.aux") ) 
 Here is how much of TeX's memory you used:
- 27430 strings out of 492970
- 675198 string characters out of 3126593
- 863435 words of memory out of 3000000
- 30733 multiletter control sequences out of 15000+200000
- 28414 words of font info for 77 fonts, out of 3000000 for 9000
+ 31058 strings out of 492970
+ 737772 string characters out of 3126593
+ 1064814 words of memory out of 3000000
+ 34255 multiletter control sequences out of 15000+200000
+ 34079 words of font info for 97 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,6n,96p,2740b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/teodo/AppData/Local/Programs/
-MiKTeX 2.9/fonts/enc/dvips/libertinegc/lib-t2a1.enc}{C:/Users/teodo/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/enc/dvips/libertinegc/lib-t2a.enc}<C:/Users/teodo/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineT.pf
-b><C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertin
-e/LinLibertineTB.pfb>
-Output written on "RENDEROVANJE-MATURSKI RAD.pdf" (2 pages, 190493 bytes).
+ 64i,8n,97p,5263b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/teodo/AppData/Local/Programs/MiK
+TeX 2.9/fonts/enc/dvips/libertinegc/lib-t2a1.enc}{C:/Users/teodo/AppData/Local/
+Programs/MiKTeX 2.9/fonts/enc/dvips/libertinegc/lib-t2a.enc}<C:/Users/teodo/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineT.pfb><
+C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/L
+inLibertineTB.pfb><C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmmi12.pfb><C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/teodo/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/teodo/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "RENDEROVANJE-MATURSKI RAD.pdf" (6 pages, 419529 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
+ 65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 17421 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 19514 words of extra memory for PDF output out of 20736 (max. 10000000)
 
