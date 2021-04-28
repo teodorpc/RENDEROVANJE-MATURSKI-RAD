@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.26)  27 APR 2021 23:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.26)  28 APR 2021 21:34
 entering extended mode
 **"./RENDEROVANJE-MATURSKI RAD.tex"
 ("RENDEROVANJE-MATURSKI RAD.tex"
@@ -1430,90 +1430,97 @@ LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/b/n' will be
 
 {C:/Users/teodo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 [2]
-<prviRenderiRomni1.jpg, id=13, 501.875pt x 499.8675pt>
-File: prviRenderiRomni1.jpg Graphic file (type jpg)
-<use prviRenderiRomni1.jpg>
-Package pdftex.def Info: prviRenderiRomni1.jpg  used on input line 68.
+<slike/prviRenderiRomni1.jpg, id=13, 501.875pt x 499.8675pt>
+File: slike/prviRenderiRomni1.jpg Graphic file (type jpg)
+<use slike/prviRenderiRomni1.jpg>
+Package pdftex.def Info: slike/prviRenderiRomni1.jpg  used on input line 69.
 (pdftex.def)             Requested size: 187.89914pt x 187.15237pt.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 69.
-<prviRenderiRomni2.jpg, id=14, 501.875pt x 502.87875pt>
-File: prviRenderiRomni2.jpg Graphic file (type jpg)
-<use prviRenderiRomni2.jpg>
-Package pdftex.def Info: prviRenderiRomni2.jpg  used on input line 72.
+(Font)              scaled to size 10.95pt on input line 70.
+<slike/prviRenderiRomni2.jpg, id=14, 501.875pt x 502.87875pt>
+File: slike/prviRenderiRomni2.jpg Graphic file (type jpg)
+<use slike/prviRenderiRomni2.jpg>
+Package pdftex.def Info: slike/prviRenderiRomni2.jpg  used on input line 73.
 (pdftex.def)             Requested size: 187.89914pt x 188.2798pt.
-<prviRenderiBlin.jpg, id=15, 501.875pt x 322.20375pt>
-File: prviRenderiBlin.jpg Graphic file (type jpg)
-<use prviRenderiBlin.jpg>
-Package pdftex.def Info: prviRenderiBlin.jpg  used on input line 81.
+<slike/prviRenderiBlin.jpg, id=15, 501.875pt x 322.20375pt>
+File: slike/prviRenderiBlin.jpg Graphic file (type jpg)
+<use slike/prviRenderiBlin.jpg>
+Package pdftex.def Info: slike/prviRenderiBlin.jpg  used on input line 83.
 (pdftex.def)             Requested size: 501.87376pt x 322.20296pt.
- [3 <./prviRenderiRomni1.jpg> <./prviRenderiRomni2.jpg>] [4 <./prviRenderiBlin.
-jpg>]
-<Catmull-Clark_Recursive_Step_1.png, id=22, 220.825pt x 124.465pt>
-File: Catmull-Clark_Recursive_Step_1.png Graphic file (type png)
-<use Catmull-Clark_Recursive_Step_1.png>
-Package pdftex.def Info: Catmull-Clark_Recursive_Step_1.png  used on input line
- 135.
+<slike/jutinCajnik.png, id=16, 702.625pt x 464.73625pt>
+File: slike/jutinCajnik.png Graphic file (type png)
+<use slike/jutinCajnik.png>
+Package pdftex.def Info: slike/jutinCajnik.png  used on input line 89.
+(pdftex.def)             Requested size: 702.62328pt x 464.7351pt.
+ [3 <./slike/prviRenderiRomni1.jpg> <./slike/prviRenderiRomni2.jpg>]
+[4 <./slike/prviRenderiBlin.jpg> <./slike/jutinCajnik.png (PNG copy)>] [5]
+<slike/Catmull-Clark_Recursive_Step_1.png, id=26, 220.825pt x 124.465pt>
+File: slike/Catmull-Clark_Recursive_Step_1.png Graphic file (type png)
+<use slike/Catmull-Clark_Recursive_Step_1.png>
+Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_1.png  used on inpu
+t line 165.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<Catmull-Clark_Recursive_Step_2.png, id=23, 220.825pt x 124.465pt>
-File: Catmull-Clark_Recursive_Step_2.png Graphic file (type png)
-<use Catmull-Clark_Recursive_Step_2.png>
-Package pdftex.def Info: Catmull-Clark_Recursive_Step_2.png  used on input line
- 139.
+<slike/Catmull-Clark_Recursive_Step_2.png, id=27, 220.825pt x 124.465pt>
+File: slike/Catmull-Clark_Recursive_Step_2.png Graphic file (type png)
+<use slike/Catmull-Clark_Recursive_Step_2.png>
+Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_2.png  used on inpu
+t line 169.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<Catmull-Clark_Recursive_Step_3.png, id=25, 220.825pt x 124.465pt>
-File: Catmull-Clark_Recursive_Step_3.png Graphic file (type png)
-<use Catmull-Clark_Recursive_Step_3.png>
-Package pdftex.def Info: Catmull-Clark_Recursive_Step_3.png  used on input line
- 143.
+<slike/Catmull-Clark_Recursive_Step_3.png, id=29, 220.825pt x 124.465pt>
+File: slike/Catmull-Clark_Recursive_Step_3.png Graphic file (type png)
+<use slike/Catmull-Clark_Recursive_Step_3.png>
+Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_3.png  used on inpu
+t line 173.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<Catmull-Clark_Recursive_Step_4.png, id=26, 220.825pt x 124.465pt>
-File: Catmull-Clark_Recursive_Step_4.png Graphic file (type png)
-<use Catmull-Clark_Recursive_Step_4.png>
-Package pdftex.def Info: Catmull-Clark_Recursive_Step_4.png  used on input line
- 147.
+<slike/Catmull-Clark_Recursive_Step_4.png, id=30, 220.825pt x 124.465pt>
+File: slike/Catmull-Clark_Recursive_Step_4.png Graphic file (type png)
+<use slike/Catmull-Clark_Recursive_Step_4.png>
+Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_4.png  used on inpu
+t line 177.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<Catmull-Clark_Recursive_Step_5.png, id=27, 220.825pt x 124.465pt>
-File: Catmull-Clark_Recursive_Step_5.png Graphic file (type png)
-<use Catmull-Clark_Recursive_Step_5.png>
-Package pdftex.def Info: Catmull-Clark_Recursive_Step_5.png  used on input line
- 151.
+<slike/Catmull-Clark_Recursive_Step_5.png, id=31, 220.825pt x 124.465pt>
+File: slike/Catmull-Clark_Recursive_Step_5.png Graphic file (type png)
+<use slike/Catmull-Clark_Recursive_Step_5.png>
+Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_5.png  used on inpu
+t line 181.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<Catmull-Clark_Recursive_Step_6.png, id=28, 220.825pt x 124.465pt>
-File: Catmull-Clark_Recursive_Step_6.png Graphic file (type png)
-<use Catmull-Clark_Recursive_Step_6.png>
-Package pdftex.def Info: Catmull-Clark_Recursive_Step_6.png  used on input line
- 155.
+<slike/Catmull-Clark_Recursive_Step_6.png, id=32, 220.825pt x 124.465pt>
+File: slike/Catmull-Clark_Recursive_Step_6.png Graphic file (type png)
+<use slike/Catmull-Clark_Recursive_Step_6.png>
+Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_6.png  used on inpu
+t line 185.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
- [5] ("RENDEROVANJE-MATURSKI RAD.toc")
+
+[6] ("RENDEROVANJE-MATURSKI RAD.toc")
 \tf@toc=\write4
 \openout4 = `"RENDEROVANJE-MATURSKI RAD.toc"'.
 
- [6 <./Catmull-Clark_Recursive_Step_1.png> <./Catmull-Clark_Recursive_Step_2.pn
-g> <./Catmull-Clark_Recursive_Step_3.png> <./Catmull-Clark_Recursive_Step_4.png
-> <./Catmull-Clark_Recursive_Step_5.png> <./Catmull-Clark_Recursive_Step_6.png>
-] ("RENDEROVANJE-MATURSKI RAD.aux") ) 
+ [7 <./slike/Catmull-Clark_Recursive_Step_1.png> <./slike/Catmull-Clark_Recursi
+ve_Step_2.png> <./slike/Catmull-Clark_Recursive_Step_3.png> <./slike/Catmull-Cl
+ark_Recursive_Step_4.png> <./slike/Catmull-Clark_Recursive_Step_5.png> <./slike
+/Catmull-Clark_Recursive_Step_6.png>]
+("RENDEROVANJE-MATURSKI RAD.aux") ) 
 Here is how much of TeX's memory you used:
- 31058 strings out of 492970
- 737772 string characters out of 3126593
+ 31075 strings out of 492970
+ 738323 string characters out of 3126593
  1064814 words of memory out of 3000000
- 34255 multiletter control sequences out of 15000+200000
- 34079 words of font info for 97 fonts, out of 3000000 for 9000
+ 34260 multiletter control sequences out of 15000+200000
+ 35154 words of font info for 102 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,8n,97p,5263b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/teodo/AppData/Local/Programs/MiK
-TeX 2.9/fonts/enc/dvips/libertinegc/lib-t2a1.enc}{C:/Users/teodo/AppData/Local/
-Programs/MiKTeX 2.9/fonts/enc/dvips/libertinegc/lib-t2a.enc}<C:/Users/teodo/App
-Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineT.pfb><
-C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/L
-inLibertineTB.pfb><C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmmi12.pfb><C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/teodo/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/teodo/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "RENDEROVANJE-MATURSKI RAD.pdf" (6 pages, 419529 bytes).
+ 64i,10n,97p,5996b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/teodo/AppData/Local/Programs/MiKTe
+X 2.9/fonts/enc/dvips/libertinegc/lib-t2a1.enc}{C:/Users/teodo/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/enc/dvips/libertinegc/lib-t2a.enc}<C:/Users/teodo/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineT.pfb><C:
+/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/Lin
+LibertineTB.pfb><C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmmi12.pfb><C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/teodo/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/teodo/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "RENDEROVANJE-MATURSKI RAD.pdf" (7 pages, 589273 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 19514 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 19519 words of extra memory for PDF output out of 20736 (max. 10000000)
 
