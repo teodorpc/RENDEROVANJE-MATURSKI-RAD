@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.26)  29 APR 2021 22:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.26)  30 APR 2021 23:11
 entering extended mode
 **"./RENDEROVANJE-MATURSKI RAD.tex"
 ("RENDEROVANJE-MATURSKI RAD.tex"
@@ -1489,57 +1489,58 @@ Package pdftex.def Info: slike/strukturePodatakaIzgledTehnika2.png  used on inp
 ut line 160.
 (pdftex.def)             Requested size: 1003.74756pt x 1003.74756pt.
  [7 <./slike/strukturePodatakaGeometrijaTehnika3.png> <./slike/strukturePodatak
-aIzgledTehnika1.png> <./slike/strukturePodatakaIzgledTehnika2.png>] [8] [9]
-<slike/Catmull-Clark_Recursive_Step_1.png, id=47, 220.825pt x 124.465pt>
+aIzgledTehnika1.png> <./slike/strukturePodatakaIzgledTehnika2.png>] [8] [9] [10
+] [11]
+<slike/Catmull-Clark_Recursive_Step_1.png, id=52, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_1.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_1.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_1.png  used on inpu
-t line 230.
+t line 259.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<slike/Catmull-Clark_Recursive_Step_2.png, id=48, 220.825pt x 124.465pt>
+<slike/Catmull-Clark_Recursive_Step_2.png, id=53, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_2.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_2.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_2.png  used on inpu
-t line 234.
+t line 263.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<slike/Catmull-Clark_Recursive_Step_3.png, id=49, 220.825pt x 124.465pt>
+<slike/Catmull-Clark_Recursive_Step_3.png, id=54, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_3.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_3.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_3.png  used on inpu
-t line 238.
+t line 267.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<slike/Catmull-Clark_Recursive_Step_4.png, id=50, 220.825pt x 124.465pt>
+<slike/Catmull-Clark_Recursive_Step_4.png, id=55, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_4.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_4.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_4.png  used on inpu
-t line 242.
+t line 271.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<slike/Catmull-Clark_Recursive_Step_5.png, id=51, 220.825pt x 124.465pt>
+<slike/Catmull-Clark_Recursive_Step_5.png, id=56, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_5.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_5.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_5.png  used on inpu
-t line 246.
+t line 275.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<slike/Catmull-Clark_Recursive_Step_6.png, id=52, 220.825pt x 124.465pt>
+<slike/Catmull-Clark_Recursive_Step_6.png, id=57, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_6.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_6.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_6.png  used on inpu
-t line 250.
+t line 279.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
- ("RENDEROVANJE-MATURSKI RAD.toc" [10 <./slike/Catmull-Clark_Recursive_Step_1.p
-ng> <./slike/Catmull-Clark_Recursive_Step_2.png> <./slike/Catmull-Clark_Recursi
-ve_Step_3.png> <./slike/Catmull-Clark_Recursive_Step_4.png> <./slike/Catmull-Cl
-ark_Recursive_Step_5.png> <./slike/Catmull-Clark_Recursive_Step_6.png>])
+ [12] ("RENDEROVANJE-MATURSKI RAD.toc" [13 <./slike/Catmull-Clark_Recursive_Ste
+p_1.png> <./slike/Catmull-Clark_Recursive_Step_2.png> <./slike/Catmull-Clark_Re
+cursive_Step_3.png> <./slike/Catmull-Clark_Recursive_Step_4.png> <./slike/Catmu
+ll-Clark_Recursive_Step_5.png> <./slike/Catmull-Clark_Recursive_Step_6.png>])
 \tf@toc=\write4
 \openout4 = `"RENDEROVANJE-MATURSKI RAD.toc"'.
 
- [11] ("RENDEROVANJE-MATURSKI RAD.aux") ) 
+ [14] ("RENDEROVANJE-MATURSKI RAD.aux") ) 
 Here is how much of TeX's memory you used:
- 31115 strings out of 492970
- 739765 string characters out of 3126593
+ 31121 strings out of 492970
+ 739890 string characters out of 3126593
  1064814 words of memory out of 3000000
- 34285 multiletter control sequences out of 15000+200000
- 36239 words of font info for 107 fonts, out of 3000000 for 9000
+ 34287 multiletter control sequences out of 15000+200000
+ 36669 words of font info for 109 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,10n,97p,5996b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/teodo/AppData/Local/Programs
@@ -1552,9 +1553,9 @@ ype1/public/amsfonts/cm/cmmi12.pfb><C:/Users/teodo/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/teodo/AppData/Local/Pr
 ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/teodo/AppD
 ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "RENDEROVANJE-MATURSKI RAD.pdf" (11 pages, 2104003 bytes).
+Output written on "RENDEROVANJE-MATURSKI RAD.pdf" (14 pages, 2114174 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
+ 99 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  19544 words of extra memory for PDF output out of 20736 (max. 10000000)
 
