@@ -1,6 +1,6 @@
-#include <iostream>
-
 #include "Renderer.h"
+
+#include <iostream>
 
 void GLResetujGreske() {
 	while (glGetError() != GL_NO_ERROR);

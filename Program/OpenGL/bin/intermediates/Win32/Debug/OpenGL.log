@@ -1,1 +1,8 @@
-﻿  OpenGL.vcxproj -> C:\Users\teodo\Desktop\RENDEROVANJE - MATURSKI RAD\RENDEROVANJE-MATURSKI-RAD\Program\OpenGL\bin\Win32\Debug\OpenGL.exe
+﻿  Aplikacija.cpp
+C:\Users\teodo\Desktop\RENDEROVANJE - MATURSKI RAD\RENDEROVANJE-MATURSKI-RAD\Program\OpenGL\Dependencies\glm\glm\detail\func_matrix.inl(431,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\teodo\Desktop\RENDEROVANJE - MATURSKI RAD\RENDEROVANJE-MATURSKI-RAD\Program\OpenGL\Dependencies\glm\glm\detail\func_matrix.inl(555,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\teodo\Desktop\RENDEROVANJE - MATURSKI RAD\RENDEROVANJE-MATURSKI-RAD\Program\OpenGL\Dependencies\glm\glm\detail\func_matrix.inl(556,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\teodo\Desktop\RENDEROVANJE - MATURSKI RAD\RENDEROVANJE-MATURSKI-RAD\Program\OpenGL\Dependencies\glm\glm\detail\func_matrix.inl(507,16): warning C4101: 'const2': unreferenced local variable
+C:\Users\teodo\Desktop\RENDEROVANJE - MATURSKI RAD\RENDEROVANJE-MATURSKI-RAD\Program\OpenGL\Dependencies\glm\glm\detail\func_matrix.inl(507,24): warning C4101: 'const3': unreferenced local variable
+C:\Users\teodo\Desktop\RENDEROVANJE - MATURSKI RAD\RENDEROVANJE-MATURSKI-RAD\Program\OpenGL\Dependencies\glm\glm\detail\func_matrix.inl(507,8): warning C4101: 'const1': unreferenced local variable
+  OpenGL.vcxproj -> C:\Users\teodo\Desktop\RENDEROVANJE - MATURSKI RAD\RENDEROVANJE-MATURSKI-RAD\Program\OpenGL\bin\Win32\Debug\OpenGL.exe
