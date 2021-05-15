@@ -26,7 +26,7 @@ void main()
 	/*mat2 matrica = mat2(
 		cos(u_ugao), -sin(u_ugao),
 		sin(u_ugao), cos(u_ugao)
-		);*/
+	);*/
 
 	fBoja = boja;
 	gl_Position = u_MVP * vec4(pozicija.xyz, 1);

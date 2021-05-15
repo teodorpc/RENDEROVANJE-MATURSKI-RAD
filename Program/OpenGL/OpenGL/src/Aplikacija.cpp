@@ -208,12 +208,6 @@ int main(void)
 	POTVRDA(index_u_Boja != -1);
 	GLProveraGresaka(glUniform4f(index_u_Boja, 0.0f, 0.0f, 1.0f, 1.0f));*/
 
-	float dim = 1.0f;
-
-	float smer = 1.0f;
-
-	float ugao = 0.0f;
-
 	float ugaoX = 2.3f, ugaoY = 5.5f;
 
 
@@ -225,8 +219,6 @@ int main(void)
 	glm::mat4 matricaModela(1.0f);
 
 	podesiMVPMatricu(matricaModela, matricaKamere, matricaProjekcije, program);
-
-	float const1, const2, const3;
 
 	float modifZaKretanje = 0.1f;
 	float modifZaOkretanje = 0.035f;
@@ -256,7 +248,7 @@ int main(void)
 
 		int stanjeEsc = glfwGetKey(window, GLFW_KEY_ESCAPE);
 
-		if (stanjeEsc == GLFW_PRESS && nijeBlokiran) {
+		if (stanjeEsc && nijeBlokiran) {
 			nijeBlokiran = false;
 			if (modKursora == GLFW_CURSOR_DISABLED) {
 				glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_NORMAL);
@@ -266,7 +258,7 @@ int main(void)
 			}
 			glfwSetCursorPos(window, 0, 0);
 		}
-		else if(stanjeEsc == GLFW_RELEASE)
+		else if(!stanjeEsc)
 			nijeBlokiran = true;
 
 		if (modKursora == GLFW_CURSOR_DISABLED) {
