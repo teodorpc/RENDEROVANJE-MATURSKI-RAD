@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.26)  16 MAY 2021 22:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.26)  16 MAY 2021 23:03
 entering extended mode
 **"./RENDEROVANJE-MATURSKI RAD.tex"
 ("RENDEROVANJE-MATURSKI RAD.tex"
@@ -1255,7 +1255,11 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 ("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
 sty"
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-) ("RENDEROVANJE-MATURSKI RAD.aux")
+) ("RENDEROVANJE-MATURSKI RAD.aux"
+
+LaTeX Warning: Label `fig:katmulklark' multiply defined.
+
+)
 \openout1 = `"RENDEROVANJE-MATURSKI RAD.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
@@ -1274,8 +1278,7 @@ LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 44.
 LaTeX Font Info:    ... okay on input line 44.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 44.
-
-("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+ ("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 44.
@@ -1520,72 +1523,83 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineMonoT-TLF' (encoding: T2A).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [15]
-<slike/ocrtavanjeZrakova.png, id=73, 244.66406pt x 99.37125pt>
+<slike/aplikacijaSlika1.PNG, id=70, 543.53062pt x 542.025pt>
+File: slike/aplikacijaSlika1.PNG Graphic file (type png)
+<use slike/aplikacijaSlika1.PNG>
+Package pdftex.def Info: slike/aplikacijaSlika1.PNG  used on input line 327.
+(pdftex.def)             Requested size: 211.38832pt x 210.80168pt.
+<slike/aplikacijaSlika2.PNG, id=71, 542.77782pt x 543.53062pt>
+File: slike/aplikacijaSlika2.PNG Graphic file (type png)
+<use slike/aplikacijaSlika2.PNG>
+Package pdftex.def Info: slike/aplikacijaSlika2.PNG  used on input line 330.
+(pdftex.def)             Requested size: 211.38832pt x 211.6775pt.
+ [15 <./slike/aplikacijaSlika1.PNG> <./slike/aplikacijaSlika2.PNG>]
+<slike/ocrtavanjeZrakova.png, id=77, 244.66406pt x 99.37125pt>
 File: slike/ocrtavanjeZrakova.png Graphic file (type png)
 <use slike/ocrtavanjeZrakova.png>
-Package pdftex.def Info: slike/ocrtavanjeZrakova.png  used on input line 334.
+Package pdftex.def Info: slike/ocrtavanjeZrakova.png  used on input line 350.
 (pdftex.def)             Requested size: 244.66345pt x 99.371pt.
-<slike/primerDetekcijeIvice.jpg, id=74, 803.0pt x 585.18625pt>
+<slike/primerDetekcijeIvice.jpg, id=78, 803.0pt x 585.18625pt>
 File: slike/primerDetekcijeIvice.jpg Graphic file (type jpg)
 <use slike/primerDetekcijeIvice.jpg>
-Package pdftex.def Info: slike/primerDetekcijeIvice.jpg  used on input line 342
+Package pdftex.def Info: slike/primerDetekcijeIvice.jpg  used on input line 358
 .
 (pdftex.def)             Requested size: 802.99805pt x 585.18481pt.
-<slike/kdDrvoFraktali.jpg, id=75, 1284.8pt x 722.7pt>
+<slike/kdDrvoFraktali.jpg, id=79, 1284.8pt x 722.7pt>
 File: slike/kdDrvoFraktali.jpg Graphic file (type jpg)
 <use slike/kdDrvoFraktali.jpg>
-Package pdftex.def Info: slike/kdDrvoFraktali.jpg  used on input line 348.
+Package pdftex.def Info: slike/kdDrvoFraktali.jpg  used on input line 364.
 (pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
- [16 <./slike/ocrtavanjeZrakova.png>] [17 <./slike/primerDetekcijeIvice.jpg> <.
-/slike/kdDrvoFraktali.jpg>]
-<slike/Catmull-Clark_Recursive_Step_1.png, id=83, 220.825pt x 124.465pt>
+
+[16 <./slike/ocrtavanjeZrakova.png>] [17 <./slike/primerDetekcijeIvice.jpg> <./
+slike/kdDrvoFraktali.jpg>]
+<slike/Catmull-Clark_Recursive_Step_1.png, id=87, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_1.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_1.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_1.png  used on inpu
-t line 398.
+t line 414.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<slike/Catmull-Clark_Recursive_Step_2.png, id=84, 220.825pt x 124.465pt>
+<slike/Catmull-Clark_Recursive_Step_2.png, id=88, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_2.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_2.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_2.png  used on inpu
-t line 402.
+t line 418.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<slike/Catmull-Clark_Recursive_Step_3.png, id=85, 220.825pt x 124.465pt>
+<slike/Catmull-Clark_Recursive_Step_3.png, id=89, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_3.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_3.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_3.png  used on inpu
-t line 406.
+t line 422.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<slike/Catmull-Clark_Recursive_Step_4.png, id=86, 220.825pt x 124.465pt>
+<slike/Catmull-Clark_Recursive_Step_4.png, id=90, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_4.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_4.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_4.png  used on inpu
-t line 410.
+t line 426.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<slike/Catmull-Clark_Recursive_Step_5.png, id=87, 220.825pt x 124.465pt>
+<slike/Catmull-Clark_Recursive_Step_5.png, id=91, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_5.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_5.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_5.png  used on inpu
-t line 414.
+t line 430.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<slike/Catmull-Clark_Recursive_Step_6.png, id=88, 220.825pt x 124.465pt>
+<slike/Catmull-Clark_Recursive_Step_6.png, id=92, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_6.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_6.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_6.png  used on inpu
-t line 418.
+t line 434.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
  [18] [19 <./slike/Catmull-Clark_Recursive_Step_1.png> <./slike/Catmull-Clark_R
 ecursive_Step_2.png> <./slike/Catmull-Clark_Recursive_Step_3.png> <./slike/Catm
 ull-Clark_Recursive_Step_4.png> <./slike/Catmull-Clark_Recursive_Step_5.png> <.
 /slike/Catmull-Clark_Recursive_Step_6.png>]
-Overfull \hbox (20.568pt too wide) in paragraph at lines 428--448
+Overfull \hbox (20.568pt too wide) in paragraph at lines 444--464
 \T2A/LinuxLibertineT-TLF/m/n/12 (-20) https://stackoverflow.com/questions/25570
 116/difference-between-tessellation-shaders-and-geometry-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--448
+Underfull \hbox (badness 10000) in paragraph at lines 444--464
 
  []
 
@@ -1593,12 +1607,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 428--448
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 31823 strings out of 492970
- 749401 string characters out of 3126593
+ 31834 strings out of 492970
+ 749691 string characters out of 3126593
  1078955 words of memory out of 3000000
- 34951 multiletter control sequences out of 15000+200000
+ 34959 multiletter control sequences out of 15000+200000
  47073 words of font info for 124 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,10n,96p,5996b,1523s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1616,9 +1633,9 @@ fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/teodo/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/teodo/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/teod
 o/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "RENDEROVANJE-MATURSKI RAD.pdf" (21 pages, 2543630 bytes).
+Output written on "RENDEROVANJE-MATURSKI RAD.pdf" (21 pages, 3017986 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
+ 184 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 30311 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 30321 words of extra memory for PDF output out of 35830 (max. 10000000)
 
