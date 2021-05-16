@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.26)  15 MAY 2021 20:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.26)  16 MAY 2021 22:38
 entering extended mode
 **"./RENDEROVANJE-MATURSKI RAD.tex"
 ("RENDEROVANJE-MATURSKI RAD.tex"
@@ -1243,44 +1243,44 @@ cfg"
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
-
-("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
-sty"
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
-sty"
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
+ (listings-glsl.prf
 ("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
 ty"
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+))
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) ("RENDEROVANJE-MATURSKI RAD.aux")
 \openout1 = `"RENDEROVANJE-MATURSKI RAD.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 44.
 
 ("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    ... okay on input line 44.
 LaTeX Font Info:    Try loading font information for T2A+LinuxLibertineT-TLF on
- input line 41.
+ input line 44.
 
 ("C:\Users\teodo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\libertinegc\t2alin
 uxlibertinet-tlf.fd"
@@ -1288,10 +1288,10 @@ File: T2ALinuxLibertineT-TLF.fd 2016/02/13 (msharpe) scaled font definitions fo
 r Libertine T2A
 )
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 41.
+(Font)              scaled to size 12.0pt on input line 44.
 \c@mv@tabular=\count155
 \c@mv@boldtabular=\count156
-LaTeX Info: Redefining \microtypecontext on input line 41.
+LaTeX Info: Redefining \microtypecontext on input line 44.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1382,7 +1382,7 @@ G,.JBIG2,.JB2,.eps]
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
 your preamble.
- on input line 41.
+ on input line 44.
 
 \Hy@linkcounter=\count163
 Package caption Info: Begin \AtBeginDocument code.
@@ -1391,17 +1391,17 @@ Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count164
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 46.
+(Font)              scaled to size 20.74pt on input line 49.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 53.
+(Font)              scaled to size 24.88pt on input line 56.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 54.
+(Font)              scaled to size 24.88pt on input line 57.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 63.
+(Font)              scaled to size 17.28pt on input line 66.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 64.
+(Font)              scaled to size 17.28pt on input line 67.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 79.
+(Font)              scaled to size 14.4pt on input line 90.
 [1
 
 {C:/Users/teodo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
@@ -1437,29 +1437,29 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
  [1]
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 96.
+(Font)              scaled to size 14.4pt on input line 107.
  [2] [3]
 <slike/prviRenderiRomni1.jpg, id=19, 501.875pt x 499.8675pt>
 File: slike/prviRenderiRomni1.jpg Graphic file (type jpg)
 <use slike/prviRenderiRomni1.jpg>
-Package pdftex.def Info: slike/prviRenderiRomni1.jpg  used on input line 115.
+Package pdftex.def Info: slike/prviRenderiRomni1.jpg  used on input line 126.
 (pdftex.def)             Requested size: 187.89914pt x 187.15237pt.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 116.
+(Font)              scaled to size 10.95pt on input line 127.
 <slike/prviRenderiRomni2.jpg, id=20, 501.875pt x 502.87875pt>
 File: slike/prviRenderiRomni2.jpg Graphic file (type jpg)
 <use slike/prviRenderiRomni2.jpg>
-Package pdftex.def Info: slike/prviRenderiRomni2.jpg  used on input line 119.
+Package pdftex.def Info: slike/prviRenderiRomni2.jpg  used on input line 130.
 (pdftex.def)             Requested size: 187.89914pt x 188.2798pt.
 <slike/prviRenderiBlin.jpg, id=21, 501.875pt x 322.20375pt>
 File: slike/prviRenderiBlin.jpg Graphic file (type jpg)
 <use slike/prviRenderiBlin.jpg>
-Package pdftex.def Info: slike/prviRenderiBlin.jpg  used on input line 129.
+Package pdftex.def Info: slike/prviRenderiBlin.jpg  used on input line 140.
 (pdftex.def)             Requested size: 501.87376pt x 322.20296pt.
 <slike/jutinCajnik.png, id=22, 702.625pt x 464.73625pt>
 File: slike/jutinCajnik.png Graphic file (type png)
 <use slike/jutinCajnik.png>
-Package pdftex.def Info: slike/jutinCajnik.png  used on input line 135.
+Package pdftex.def Info: slike/jutinCajnik.png  used on input line 146.
 (pdftex.def)             Requested size: 702.62328pt x 464.7351pt.
  [4 <./slike/prviRenderiRomni1.jpg> <./slike/prviRenderiRomni2.jpg>] [5 <./slik
 e/prviRenderiBlin.jpg> <./slike/jutinCajnik.png (PNG copy)>]
@@ -1469,19 +1469,19 @@ e/prviRenderiBlin.jpg> <./slike/jutinCajnik.png (PNG copy)>]
 File: slike/strukturePodatakaGeometrijaTehnika1.png Graphic file (type png)
 <use slike/strukturePodatakaGeometrijaTehnika1.png>
 Package pdftex.def Info: slike/strukturePodatakaGeometrijaTehnika1.png  used on
- input line 172.
+ input line 183.
 (pdftex.def)             Requested size: 1003.74756pt x 362.35286pt.
 <slike/strukturePodatakaGeometrijaTehnika2.png, id=34, 1003.75pt x 750.805pt>
 File: slike/strukturePodatakaGeometrijaTehnika2.png Graphic file (type png)
 <use slike/strukturePodatakaGeometrijaTehnika2.png>
 Package pdftex.def Info: slike/strukturePodatakaGeometrijaTehnika2.png  used on
- input line 178.
+ input line 189.
 (pdftex.def)             Requested size: 1003.74756pt x 750.80316pt.
 <slike/strukturePodatakaGeometrijaTehnika3.png, id=35, 1003.75pt x 297.11pt>
 File: slike/strukturePodatakaGeometrijaTehnika3.png Graphic file (type png)
 <use slike/strukturePodatakaGeometrijaTehnika3.png>
 Package pdftex.def Info: slike/strukturePodatakaGeometrijaTehnika3.png  used on
- input line 186.
+ input line 197.
 (pdftex.def)             Requested size: 1003.74756pt x 297.10927pt.
  [7 <./slike/strukturePodatakaGeometrijaTehnika1.png> <./slike/strukturePodatak
 aGeometrijaTehnika2.png>]
@@ -1489,90 +1489,136 @@ aGeometrijaTehnika2.png>]
 File: slike/strukturePodatakaIzgledTehnika1.png Graphic file (type png)
 <use slike/strukturePodatakaIzgledTehnika1.png>
 Package pdftex.def Info: slike/strukturePodatakaIzgledTehnika1.png  used on inp
-ut line 200.
+ut line 211.
 (pdftex.def)             Requested size: 1003.74756pt x 424.5852pt.
 <slike/strukturePodatakaIzgledTehnika2.png, id=41, 1003.75pt x 1003.75pt>
 File: slike/strukturePodatakaIzgledTehnika2.png Graphic file (type png)
 <use slike/strukturePodatakaIzgledTehnika2.png>
 Package pdftex.def Info: slike/strukturePodatakaIzgledTehnika2.png  used on inp
-ut line 206.
+ut line 217.
 (pdftex.def)             Requested size: 1003.74756pt x 1003.74756pt.
  [8 <./slike/strukturePodatakaGeometrijaTehnika3.png> <./slike/strukturePodatak
 aIzgledTehnika1.png> <./slike/strukturePodatakaIzgledTehnika2.png>] [9] [10] [1
-1] [12] [13]
-<slike/Catmull-Clark_Recursive_Step_1.png, id=62, 220.825pt x 124.465pt>
+1] [12]
+LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 274.
+LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 274.
+LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 274.
+ [13]
+LaTeX Font Info:    Try loading font information for T2A+LinuxLibertineMonoT-TL
+F on input line 285.
+LaTeX Font Info:    No file T2ALinuxLibertineMonoT-TLF.fd. on input line 285.
+
+
+LaTeX Font Warning: Font shape `T2A/LinuxLibertineMonoT-TLF/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 285.
+
+[14]
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LinuxLibertineMonoT-TLF' (encoding: T2A).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [15]
+<slike/ocrtavanjeZrakova.png, id=73, 244.66406pt x 99.37125pt>
+File: slike/ocrtavanjeZrakova.png Graphic file (type png)
+<use slike/ocrtavanjeZrakova.png>
+Package pdftex.def Info: slike/ocrtavanjeZrakova.png  used on input line 334.
+(pdftex.def)             Requested size: 244.66345pt x 99.371pt.
+<slike/primerDetekcijeIvice.jpg, id=74, 803.0pt x 585.18625pt>
+File: slike/primerDetekcijeIvice.jpg Graphic file (type jpg)
+<use slike/primerDetekcijeIvice.jpg>
+Package pdftex.def Info: slike/primerDetekcijeIvice.jpg  used on input line 342
+.
+(pdftex.def)             Requested size: 802.99805pt x 585.18481pt.
+<slike/kdDrvoFraktali.jpg, id=75, 1284.8pt x 722.7pt>
+File: slike/kdDrvoFraktali.jpg Graphic file (type jpg)
+<use slike/kdDrvoFraktali.jpg>
+Package pdftex.def Info: slike/kdDrvoFraktali.jpg  used on input line 348.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ [16 <./slike/ocrtavanjeZrakova.png>] [17 <./slike/primerDetekcijeIvice.jpg> <.
+/slike/kdDrvoFraktali.jpg>]
+<slike/Catmull-Clark_Recursive_Step_1.png, id=83, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_1.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_1.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_1.png  used on inpu
-t line 309.
+t line 398.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<slike/Catmull-Clark_Recursive_Step_2.png, id=63, 220.825pt x 124.465pt>
+<slike/Catmull-Clark_Recursive_Step_2.png, id=84, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_2.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_2.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_2.png  used on inpu
-t line 313.
+t line 402.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<slike/Catmull-Clark_Recursive_Step_3.png, id=64, 220.825pt x 124.465pt>
+<slike/Catmull-Clark_Recursive_Step_3.png, id=85, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_3.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_3.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_3.png  used on inpu
-t line 317.
+t line 406.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<slike/Catmull-Clark_Recursive_Step_4.png, id=65, 220.825pt x 124.465pt>
+<slike/Catmull-Clark_Recursive_Step_4.png, id=86, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_4.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_4.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_4.png  used on inpu
-t line 321.
+t line 410.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<slike/Catmull-Clark_Recursive_Step_5.png, id=66, 220.825pt x 124.465pt>
+<slike/Catmull-Clark_Recursive_Step_5.png, id=87, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_5.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_5.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_5.png  used on inpu
-t line 325.
+t line 414.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
-<slike/Catmull-Clark_Recursive_Step_6.png, id=67, 220.825pt x 124.465pt>
+<slike/Catmull-Clark_Recursive_Step_6.png, id=88, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_6.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_6.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_6.png  used on inpu
-t line 329.
+t line 418.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
- [14]
-Overfull \hbox (20.568pt too wide) in paragraph at lines 337--355
+ [18] [19 <./slike/Catmull-Clark_Recursive_Step_1.png> <./slike/Catmull-Clark_R
+ecursive_Step_2.png> <./slike/Catmull-Clark_Recursive_Step_3.png> <./slike/Catm
+ull-Clark_Recursive_Step_4.png> <./slike/Catmull-Clark_Recursive_Step_5.png> <.
+/slike/Catmull-Clark_Recursive_Step_6.png>]
+Overfull \hbox (20.568pt too wide) in paragraph at lines 428--448
 \T2A/LinuxLibertineT-TLF/m/n/12 (-20) https://stackoverflow.com/questions/25570
 116/difference-between-tessellation-shaders-and-geometry-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--355
+Underfull \hbox (badness 10000) in paragraph at lines 428--448
 
  []
 
-[15 <./slike/Catmull-Clark_Recursive_Step_1.png> <./slike/Catmull-Clark_Recursi
-ve_Step_2.png> <./slike/Catmull-Clark_Recursive_Step_3.png> <./slike/Catmull-Cl
-ark_Recursive_Step_4.png> <./slike/Catmull-Clark_Recursive_Step_5.png> <./slike
-/Catmull-Clark_Recursive_Step_6.png>] ("RENDEROVANJE-MATURSKI RAD.aux") ) 
+[20] ("RENDEROVANJE-MATURSKI RAD.aux")
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
 Here is how much of TeX's memory you used:
- 31104 strings out of 492970
- 739632 string characters out of 3126593
- 1064814 words of memory out of 3000000
- 34262 multiletter control sequences out of 15000+200000
- 38116 words of font info for 104 fonts, out of 3000000 for 9000
+ 31823 strings out of 492970
+ 749401 string characters out of 3126593
+ 1078955 words of memory out of 3000000
+ 34951 multiletter control sequences out of 15000+200000
+ 47073 words of font info for 124 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,10n,97p,5996b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Us
-ers/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertinegc/lib-t2a
-1.enc}{C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/liberti
-negc/lib-t2a.enc}<C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/libertine/LinLibertineT.pfb><C:/Users/teodo/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/teodo/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/te
-odo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb>
-<C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr12.pfb><C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb>
-Output written on "RENDEROVANJE-MATURSKI RAD.pdf" (16 pages, 2123695 bytes).
+ 64i,10n,96p,5996b,1523s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\teodo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\la
+rm1095.pk>{C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lib
+ertinegc/lib-t2a1.enc}{C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/e
+nc/dvips/libertinegc/lib-t2a.enc}<C:/Users/teodo/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/teodo/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users
+/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb><C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmmi12.pfb><C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmmi7.pfb><C:/Users/teodo/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/teodo/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/teodo/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/teod
+o/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "RENDEROVANJE-MATURSKI RAD.pdf" (21 pages, 2543630 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 180 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 22104 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 30311 words of extra memory for PDF output out of 35830 (max. 10000000)
 

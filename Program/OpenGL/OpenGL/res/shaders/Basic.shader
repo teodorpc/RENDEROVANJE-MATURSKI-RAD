@@ -1,7 +1,7 @@
 #shader vertex
 #version 330 core
 
-layout(location = 0) in vec4 pozicija;
+layout(location = 0) in vec3 pozicija;
 layout(location = 1) in vec3 boja;
 
 out vec3 fBoja;
@@ -29,7 +29,7 @@ void main()
 	);*/
 
 	fBoja = boja;
-	gl_Position = u_MVP * vec4(pozicija.xyz, 1);
+	gl_Position = u_MVP * vec4(pozicija, 1);
 };
 
 #shader fragment
