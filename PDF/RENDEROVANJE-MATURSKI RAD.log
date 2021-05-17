@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.26)  16 MAY 2021 23:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.26)  17 MAY 2021 16:25
 entering extended mode
 **"./RENDEROVANJE-MATURSKI RAD.tex"
 ("RENDEROVANJE-MATURSKI RAD.tex"
@@ -1394,17 +1394,17 @@ Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count164
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 49.
+(Font)              scaled to size 14.4pt on input line 49.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 56.
+(Font)              scaled to size 20.74pt on input line 54.
+LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 24.88pt on input line 61.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 57.
+(Font)              scaled to size 24.88pt on input line 62.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 66.
+(Font)              scaled to size 17.28pt on input line 71.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 67.
-LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 90.
+(Font)              scaled to size 17.28pt on input line 72.
 [1
 
 {C:/Users/teodo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
@@ -1440,29 +1440,29 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
  [1]
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 107.
+(Font)              scaled to size 14.4pt on input line 111.
  [2] [3]
 <slike/prviRenderiRomni1.jpg, id=19, 501.875pt x 499.8675pt>
 File: slike/prviRenderiRomni1.jpg Graphic file (type jpg)
 <use slike/prviRenderiRomni1.jpg>
-Package pdftex.def Info: slike/prviRenderiRomni1.jpg  used on input line 126.
+Package pdftex.def Info: slike/prviRenderiRomni1.jpg  used on input line 130.
 (pdftex.def)             Requested size: 187.89914pt x 187.15237pt.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 127.
+(Font)              scaled to size 10.95pt on input line 131.
 <slike/prviRenderiRomni2.jpg, id=20, 501.875pt x 502.87875pt>
 File: slike/prviRenderiRomni2.jpg Graphic file (type jpg)
 <use slike/prviRenderiRomni2.jpg>
-Package pdftex.def Info: slike/prviRenderiRomni2.jpg  used on input line 130.
+Package pdftex.def Info: slike/prviRenderiRomni2.jpg  used on input line 134.
 (pdftex.def)             Requested size: 187.89914pt x 188.2798pt.
 <slike/prviRenderiBlin.jpg, id=21, 501.875pt x 322.20375pt>
 File: slike/prviRenderiBlin.jpg Graphic file (type jpg)
 <use slike/prviRenderiBlin.jpg>
-Package pdftex.def Info: slike/prviRenderiBlin.jpg  used on input line 140.
+Package pdftex.def Info: slike/prviRenderiBlin.jpg  used on input line 144.
 (pdftex.def)             Requested size: 501.87376pt x 322.20296pt.
 <slike/jutinCajnik.png, id=22, 702.625pt x 464.73625pt>
 File: slike/jutinCajnik.png Graphic file (type png)
 <use slike/jutinCajnik.png>
-Package pdftex.def Info: slike/jutinCajnik.png  used on input line 146.
+Package pdftex.def Info: slike/jutinCajnik.png  used on input line 150.
 (pdftex.def)             Requested size: 702.62328pt x 464.7351pt.
  [4 <./slike/prviRenderiRomni1.jpg> <./slike/prviRenderiRomni2.jpg>] [5 <./slik
 e/prviRenderiBlin.jpg> <./slike/jutinCajnik.png (PNG copy)>]
@@ -1472,19 +1472,19 @@ e/prviRenderiBlin.jpg> <./slike/jutinCajnik.png (PNG copy)>]
 File: slike/strukturePodatakaGeometrijaTehnika1.png Graphic file (type png)
 <use slike/strukturePodatakaGeometrijaTehnika1.png>
 Package pdftex.def Info: slike/strukturePodatakaGeometrijaTehnika1.png  used on
- input line 183.
+ input line 187.
 (pdftex.def)             Requested size: 1003.74756pt x 362.35286pt.
 <slike/strukturePodatakaGeometrijaTehnika2.png, id=34, 1003.75pt x 750.805pt>
 File: slike/strukturePodatakaGeometrijaTehnika2.png Graphic file (type png)
 <use slike/strukturePodatakaGeometrijaTehnika2.png>
 Package pdftex.def Info: slike/strukturePodatakaGeometrijaTehnika2.png  used on
- input line 189.
+ input line 193.
 (pdftex.def)             Requested size: 1003.74756pt x 750.80316pt.
 <slike/strukturePodatakaGeometrijaTehnika3.png, id=35, 1003.75pt x 297.11pt>
 File: slike/strukturePodatakaGeometrijaTehnika3.png Graphic file (type png)
 <use slike/strukturePodatakaGeometrijaTehnika3.png>
 Package pdftex.def Info: slike/strukturePodatakaGeometrijaTehnika3.png  used on
- input line 197.
+ input line 201.
 (pdftex.def)             Requested size: 1003.74756pt x 297.10927pt.
  [7 <./slike/strukturePodatakaGeometrijaTehnika1.png> <./slike/strukturePodatak
 aGeometrijaTehnika2.png>]
@@ -1492,31 +1492,31 @@ aGeometrijaTehnika2.png>]
 File: slike/strukturePodatakaIzgledTehnika1.png Graphic file (type png)
 <use slike/strukturePodatakaIzgledTehnika1.png>
 Package pdftex.def Info: slike/strukturePodatakaIzgledTehnika1.png  used on inp
-ut line 211.
+ut line 215.
 (pdftex.def)             Requested size: 1003.74756pt x 424.5852pt.
 <slike/strukturePodatakaIzgledTehnika2.png, id=41, 1003.75pt x 1003.75pt>
 File: slike/strukturePodatakaIzgledTehnika2.png Graphic file (type png)
 <use slike/strukturePodatakaIzgledTehnika2.png>
 Package pdftex.def Info: slike/strukturePodatakaIzgledTehnika2.png  used on inp
-ut line 217.
+ut line 221.
 (pdftex.def)             Requested size: 1003.74756pt x 1003.74756pt.
  [8 <./slike/strukturePodatakaGeometrijaTehnika3.png> <./slike/strukturePodatak
 aIzgledTehnika1.png> <./slike/strukturePodatakaIzgledTehnika2.png>] [9] [10] [1
 1] [12]
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 274.
+(Font)              scaled to size 8.0pt on input line 278.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 274.
+(Font)              scaled to size 10.0pt on input line 278.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 274.
+(Font)              scaled to size 7.0pt on input line 278.
  [13]
 LaTeX Font Info:    Try loading font information for T2A+LinuxLibertineMonoT-TL
-F on input line 285.
-LaTeX Font Info:    No file T2ALinuxLibertineMonoT-TLF.fd. on input line 285.
+F on input line 289.
+LaTeX Font Info:    No file T2ALinuxLibertineMonoT-TLF.fd. on input line 289.
 
 
 LaTeX Font Warning: Font shape `T2A/LinuxLibertineMonoT-TLF/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 285.
+(Font)              using `T2A/cmr/m/n' instead on input line 289.
 
 [14]
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1526,29 +1526,29 @@ Package microtype Info: Loading generic protrusion settings for font family
 <slike/aplikacijaSlika1.PNG, id=70, 543.53062pt x 542.025pt>
 File: slike/aplikacijaSlika1.PNG Graphic file (type png)
 <use slike/aplikacijaSlika1.PNG>
-Package pdftex.def Info: slike/aplikacijaSlika1.PNG  used on input line 327.
+Package pdftex.def Info: slike/aplikacijaSlika1.PNG  used on input line 331.
 (pdftex.def)             Requested size: 211.38832pt x 210.80168pt.
 <slike/aplikacijaSlika2.PNG, id=71, 542.77782pt x 543.53062pt>
 File: slike/aplikacijaSlika2.PNG Graphic file (type png)
 <use slike/aplikacijaSlika2.PNG>
-Package pdftex.def Info: slike/aplikacijaSlika2.PNG  used on input line 330.
+Package pdftex.def Info: slike/aplikacijaSlika2.PNG  used on input line 334.
 (pdftex.def)             Requested size: 211.38832pt x 211.6775pt.
  [15 <./slike/aplikacijaSlika1.PNG> <./slike/aplikacijaSlika2.PNG>]
 <slike/ocrtavanjeZrakova.png, id=77, 244.66406pt x 99.37125pt>
 File: slike/ocrtavanjeZrakova.png Graphic file (type png)
 <use slike/ocrtavanjeZrakova.png>
-Package pdftex.def Info: slike/ocrtavanjeZrakova.png  used on input line 350.
+Package pdftex.def Info: slike/ocrtavanjeZrakova.png  used on input line 354.
 (pdftex.def)             Requested size: 244.66345pt x 99.371pt.
 <slike/primerDetekcijeIvice.jpg, id=78, 803.0pt x 585.18625pt>
 File: slike/primerDetekcijeIvice.jpg Graphic file (type jpg)
 <use slike/primerDetekcijeIvice.jpg>
-Package pdftex.def Info: slike/primerDetekcijeIvice.jpg  used on input line 358
+Package pdftex.def Info: slike/primerDetekcijeIvice.jpg  used on input line 362
 .
 (pdftex.def)             Requested size: 802.99805pt x 585.18481pt.
 <slike/kdDrvoFraktali.jpg, id=79, 1284.8pt x 722.7pt>
 File: slike/kdDrvoFraktali.jpg Graphic file (type jpg)
 <use slike/kdDrvoFraktali.jpg>
-Package pdftex.def Info: slike/kdDrvoFraktali.jpg  used on input line 364.
+Package pdftex.def Info: slike/kdDrvoFraktali.jpg  used on input line 368.
 (pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
 
 [16 <./slike/ocrtavanjeZrakova.png>] [17 <./slike/primerDetekcijeIvice.jpg> <./
@@ -1557,49 +1557,49 @@ slike/kdDrvoFraktali.jpg>]
 File: slike/Catmull-Clark_Recursive_Step_1.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_1.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_1.png  used on inpu
-t line 414.
+t line 418.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
 <slike/Catmull-Clark_Recursive_Step_2.png, id=88, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_2.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_2.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_2.png  used on inpu
-t line 418.
+t line 422.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
 <slike/Catmull-Clark_Recursive_Step_3.png, id=89, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_3.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_3.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_3.png  used on inpu
-t line 422.
+t line 426.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
 <slike/Catmull-Clark_Recursive_Step_4.png, id=90, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_4.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_4.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_4.png  used on inpu
-t line 426.
+t line 430.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
 <slike/Catmull-Clark_Recursive_Step_5.png, id=91, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_5.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_5.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_5.png  used on inpu
-t line 430.
+t line 434.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
 <slike/Catmull-Clark_Recursive_Step_6.png, id=92, 220.825pt x 124.465pt>
 File: slike/Catmull-Clark_Recursive_Step_6.png Graphic file (type png)
 <use slike/Catmull-Clark_Recursive_Step_6.png>
 Package pdftex.def Info: slike/Catmull-Clark_Recursive_Step_6.png  used on inpu
-t line 434.
+t line 438.
 (pdftex.def)             Requested size: 140.92793pt x 79.43512pt.
  [18] [19 <./slike/Catmull-Clark_Recursive_Step_1.png> <./slike/Catmull-Clark_R
 ecursive_Step_2.png> <./slike/Catmull-Clark_Recursive_Step_3.png> <./slike/Catm
 ull-Clark_Recursive_Step_4.png> <./slike/Catmull-Clark_Recursive_Step_5.png> <.
 /slike/Catmull-Clark_Recursive_Step_6.png>]
-Overfull \hbox (20.568pt too wide) in paragraph at lines 444--464
+Overfull \hbox (20.568pt too wide) in paragraph at lines 448--468
 \T2A/LinuxLibertineT-TLF/m/n/12 (-20) https://stackoverflow.com/questions/25570
 116/difference-between-tessellation-shaders-and-geometry-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 444--464
+Underfull \hbox (badness 10000) in paragraph at lines 448--468
 
  []
 
@@ -1633,7 +1633,7 @@ fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/teodo/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/teodo/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/teod
 o/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "RENDEROVANJE-MATURSKI RAD.pdf" (21 pages, 3017986 bytes).
+Output written on "RENDEROVANJE-MATURSKI RAD.pdf" (21 pages, 3017988 bytes).
 PDF statistics:
  184 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
